@@ -10,5 +10,7 @@ git learning and practice
 * Good practices
 * Git Tricks
 * Creado por el increible Team
+* Incluye ejemplos de Windows, Linux y MAC
+* Disponible para todas las edades
 
 Reminder: **This readme.md is a joke**.  practice purposes. Don't take it seriously
